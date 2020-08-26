@@ -1,1 +1,1 @@
-web: gunicorn JDavidZ.wsgi
+web: gunicorn jdavidz.wsgi
